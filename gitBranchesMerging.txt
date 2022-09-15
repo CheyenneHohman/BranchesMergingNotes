@@ -14,7 +14,7 @@ Commands/terms in this lesson:
 
 7. git branch -a - shows all existing branches AND remote branches  
 
-8. git branch <branch-name> - creates branch with entered branch name
+8. git branch <branch-name> - creates branch with entered branch name -- use-hyphens-to-separate-words
 
 9. git checkout <branch-name> - switches to entered branch name
 
