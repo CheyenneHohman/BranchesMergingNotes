@@ -8,7 +8,7 @@ Commands/terms in this lesson:
 
 4. Branch - Duplication of an object under version control. Once an object is "branched" it can be worked on separately from the others
 
-5. HEAD - The tip of the branch is referenced by a branch head, which moves forward as additional development is done on the branch. A single Git repository can track an arbitrary number of branches, but your working tree is associated with just one of them (the "current" or "checked out" branch), and HEAD points to that branch.
+5. HEAD - The tip of the branch is referenced by a branch head, which moves forward as additional development is done on the branch. A single Git repository can track an arbitrary number of branches, but your working tree (file tree) is associated with just one of them (the "current" or "checked out" branch), and HEAD points to that branch.
 
 6. git branch - shows all existing branches
 
