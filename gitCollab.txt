@@ -1,0 +1,8 @@
+Q key to escape. 
+
+To create a new branch, git branch new_branch (new_branch is the name, you can name it whatever)
+
+git switch new_branch will point the head towards the branch 
+
+HEAD tells you where you're looking in the repo 
+
